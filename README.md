@@ -1,14 +1,14 @@
 # Air Canvas 
-Draw in the air using hand gestures!
+Draw in the air using hand gestures.
 
-This project uses your webcam, computer vision, and hand tracking (via MediaPipe) to create an interactive air-drawing application where you can select colors, draw, erase, adjust brush thickness, and save your artwork — all with just your hand movements.
+This project uses webcam, computer vision, and hand tracking (via MediaPipe) to create an interactive air-drawing application where you can select colors, draw, erase, adjust brush thickness, and save your artwork — all with just your hand movements.
 
 ## Demo
 ![alt text](1-1.png)
 ![alt text](2-1.png)
 
 ## Features
-Draw using your index finger.
+Draw using index finger.
 - Select colors by moving your hand to the color menu.
 - Eraser mode for corrections.
 - Adjust brush thickness by changing the number of fingers shown.
